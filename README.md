@@ -1,2 +1,2 @@
 # HNG-INTERNSHIP
-initialized empty repository
+Initialized empty repository
